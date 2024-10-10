@@ -81,7 +81,7 @@ def home():
 
 @app.route('/image.jpg')
 def serve_image():
-    return send_from_directory('/Users/varalakshmi/Downloads/BrailleVscode/templates/image.jpg', 'image.jpg')
+    return send_from_directory('/Users/varalakshmi/Downloads/BrailleVscode/templates', 'image.jpg')
 
 
 
