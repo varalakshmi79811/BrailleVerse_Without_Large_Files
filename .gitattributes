@@ -1,0 +1,16 @@
+Oracle_JDK-22/lib/modules filter=lfs diff=lfs merge=lfs -text
+large_files_directory/* filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+or filter=lfs diff=lfs merge=lfs -text
+other filter=lfs diff=lfs merge=lfs -text
+need filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+any filter=lfs diff=lfs merge=lfs -text
+file filter=lfs diff=lfs merge=lfs -text
+extensions filter=lfs diff=lfs merge=lfs -text
+you filter=lfs diff=lfs merge=lfs -text

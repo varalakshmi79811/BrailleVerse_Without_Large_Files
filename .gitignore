@@ -1,0 +1,5 @@
+venv/
+Oracle_JDK-22/
+*.bin
+*.zip
+
